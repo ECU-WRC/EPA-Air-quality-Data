@@ -1,6 +1,6 @@
 Pitt County Air quality Data Analysis App
 
-This Dash application provides interactive data visualization and analysis capabilities for rainfall data. Users can select a date range and parameters of interest to visualize the arithmetic means of these parameters over time through histograms and view the corresponding data in a table.
+This Dash application provides interactive data visualization and analysis capabilities for air quality data in Pitt county. Users can select a date range and parameters of interest to visualize the arithmetic means of these parameters over time through histograms and view the corresponding data in a table.
 App Workflow
 
 ```mermaid
